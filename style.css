@@ -29,6 +29,10 @@ body{
 }
 
 .titulo-principal span{
-    color:var(--verde)
+    color:var(--verde);
 }
 
+.botao{
+    font-family: "chakra petch",snas-serif;
+    background-color:var(--botao-inativo);
+}
